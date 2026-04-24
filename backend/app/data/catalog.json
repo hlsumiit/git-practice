@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "id": "iphone17pro",
+      "name": "iPhone 17 Pro",
+      "price": 1199
+    },
+    {
+      "id": "galaxys26ultra",
+      "name": "Galaxy S26 Ultra",
+      "price": 1099
+    }
+  ]
+}
