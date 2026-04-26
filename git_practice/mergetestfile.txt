@@ -1,3 +1,5 @@
 1st line was entered within master branch
 2nd line was entered within mergepractice branch
 this line is entered post merge from mergepractice branch
+
+Added another line just to practice Merge diff
