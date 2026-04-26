@@ -1,2 +1,3 @@
 1st line was entered within master branch
-this line is entered post first merge fron main branch
+2nd line was entered within mergepractice branch
+this line is entered post merge from mergepractice branch
